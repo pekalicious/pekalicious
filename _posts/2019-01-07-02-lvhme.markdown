@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "lvh.me and localtest.me for subdomain local testing"
+date:   2019-01-07 00:15:57 -0500
+categories: til
+---
+Did you know that [http://lvh.me](http://lvh.me) resolves to `127.0.0.1` (AKA `localhost`)? This is particularly useful when developing locally websites that require subdomains. `http://sub.localhost` isn't an option, but `http://sub.lvh.me` is. Another option (waaaaay more memorable) is [http://localtest.me/](http://localtest.me/). 
+
+I'm not sure who created lvh.me, my 20 seconds google didn't turn out anything, but localtest.me was created by [Scott Forsyth](https://weblogs.asp.net/owscott/introducing-testing-domain-localtest-me).
