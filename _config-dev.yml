@@ -2,8 +2,8 @@ title: Trial and Forget
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
   Trial and Error + Fire and Forget
-baseurl: "/pekalicious"
-url: "http://pekalicious.github.io"
+baseurl: ""
+url: ""
 twitter_username: pekalicious
 github_username:  pekalicious
 
