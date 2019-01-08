@@ -3,8 +3,11 @@ layout: post
 title:  "Rugged::OSError (failed to resolve path)"
 date:   2019-01-07 00:15:57 -0500
 categories: exercism
+tags: [exercism,rugged,ruby,windows]
 ---
 My local copy of exercism didn't render certain static pages. After a while it turns out, it's because of Windows.
+
+<!--more-->
 
 ## What happened
 

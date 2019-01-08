@@ -3,6 +3,7 @@ layout: post
 title:  "Welcome 2019!"
 date:   2019-01-06 18:45:57 -0500
 categories: personal
+tags: [personal]
 ---
 New year, new resolutions. Resolutions that, just like every year, will fall off a few months in! But why should that stop me?
 

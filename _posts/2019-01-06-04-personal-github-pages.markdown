@@ -3,8 +3,11 @@ layout: post
 title:  "Personal github pages"
 date:   2019-01-06 18:47:57 -0500
 categories: jekyll
+tags: [jekyll,github,github-pages]
 ---
 A lot of tutorials on setting up Jekyll for GitHub Pages recommend pushing to a orphaned `gh-pages` branch. That's OK if you want to create a page for a specific project under `<username>.github.io/<project>` but not if you want to setup a personal `<username>.github.io` page.
+
+<!--more-->
 
 ### What happened
 

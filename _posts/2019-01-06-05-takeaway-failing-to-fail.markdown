@@ -3,11 +3,12 @@ layout: post
 title:  "Failing to Fail: The Spiderweb Software Way"
 date:   2019-01-06 20:20:57 -0500
 categories: takeaways
+tags: [takeaways,talk]
 ---
 [Failing to Fail: The Spiderweb Software Way](https://www.youtube.com/watch?v=stxVBJem3Rs)
 >In this GDC 2018 talk, Spiderweb Software's Jeff Vogel presents a retrospective on his company's history and how they've managed to stay in the game-making business since 1994. 
 
-Jeff Vogel has been making a living building video games since the 90s. A small team of two (husband and wife), they release a game almost every year and have been doing so for about 30 years now. Their focus is on niche rpg games that are built from scratch and remastered every so often. They've had many ups and dows, but I never got the feel from the talk that they wheren't living comfortable. They were making about $200k per year with a significant jump once Steam and the indie "movement" went full force. Now they are sitting at around $300k.
+Jeff Vogel has been making a living building video games since the 90s. A small team of two (husband and wife), they release a game almost every year and have been doing so for about 30 years now. Their focus is on niche rpg games that are built from scratch and remastered every so often. They've had many ups and downs, but I never got the feel from the talk that they weren't living comfortable. They were making about $200k per year with a significant jump once Steam and the indie "movement" went full force. Now they are sitting at around $300k.
 
 What I particularly like about this is their focus on staying in the niche and not shooting for the stars. They are not following any trends and "must dos". They focus on their community, building on top of their existing work a few small steps at a time.
 

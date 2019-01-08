@@ -3,8 +3,11 @@ layout: post
 title:  "Could not find gem 'wdm (>= 0.1.0) x86-mingw32' in any of the gem sources listed in your Gemfile"
 date:   2019-01-06 18:46:57 -0500
 categories: jekyll
+tags: [jekyll,windows,ruby,gem]
 ---
 I guess it's only natural to start this blog with issues setting the blog itself up.
+
+<!--more-->
 
 ## What happened
 

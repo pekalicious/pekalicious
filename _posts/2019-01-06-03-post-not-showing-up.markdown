@@ -3,8 +3,11 @@ layout: post
 title:  "Jekyll posts not showing up"
 date:   2019-01-06 18:47:57 -0500
 categories: jekyll
+tags: [jekyll]
 ---
-I was too lazy to constnatly create new files and copy paste the same structure, so I wanted to duplicate existing files. Unfortunately, this is not functionality VS Code has, so I had to install [Duplicate Action](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-duplicate). Anyway, I duplicated a post, and noticed that the order isn't correct. Fair enough, edit the time by some amount and voila! The blog post disappeared!
+I was too lazy to constantly create new files and copy paste the same structure, so I wanted to duplicate existing files. Unfortunately, this is not functionality VS Code has, so I had to install [Duplicate Action](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-duplicate). Anyway, I duplicated a post, and noticed that the order isn't correct. Fair enough, edit the time by some amount and voila! The blog post disappeared!
+
+<!--more-->
 
 ### What happened
 
