@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hello there! This is a (micro)blog where I document every little challenge I have throughout my development day for me to remember and for you to possibly(?) learn.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+The title is a combination of Trial and Error and Fire and Forget. The former being the method in which I learn new stuff while the latter the manner in which I write this blog.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I also post once or twice a decade at [https://pekalicious.com](https://pekalicious.com).
