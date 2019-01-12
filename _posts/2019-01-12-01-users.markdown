@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Adding users and roles to Mcc-Workflow"
+date:   2019-01-12 04:00:00 -0500
+categories: mcc-workflow
+tags: [ruby,rails,devise,cancancan,rails_admin]
+---
+Decided to add users and roles for MCC-Workflow as I prepare to invite writers and editors. Thank you Devise and CanCanCan for making everything super easy!
+
+<!-- more -->
+
+Steps I followed:
+- [Adding basic authentication with Devise](https://guides.railsgirls.com/devise)
+  - [Adding Confirmation step](https://github.com/plataformatec/devise/wiki/How-To:-Add-:confirmable-to-Users)
+    - [Set mailer to use Google SMTP](https://stackoverflow.com/questions/36996090/rails-devise-not-sending-an-email-confirmation-in-development)
+- [Adding Roles with CanCanCan](https://codepany.com/blog/rails-5-user-accounts-with-3-types-of-roles-devise-rails_admin-cancancan/)
+  - [Use enum for role](https://naturaily.com/blog/ruby-on-rails-enum)
+  - [Create user from console](https://stackoverflow.com/a/4316995)
+- Added `rails_admin` gem
+  - [Handle role exception gracefully](https://github.com/brunopgalvao/CanCan1Ruby2Devise3Rails4)
+    - [Make cancan use application controller](https://stackoverflow.com/a/40415516) 
+      - [Make sure you use main_app.root_path](https://stackoverflow.com/a/23254562) Fixes error `ActionController::UrlGenerationError (No route matches {:action=>"home", :controller=>"pages"}):`
