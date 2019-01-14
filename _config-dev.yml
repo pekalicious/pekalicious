@@ -1,0 +1,21 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+plugins: [jekyll-paginate, jekyll-gist]
+
+# Permalinks
+#permalink:        pretty
+#relative_permalinks: true
+
+# Setup
+title:            Trial and Forget
+tagline:          "pek's daily struggles"
+description:      "pek's daily struggles"
+url:              http://pekalicious.github.io
+baseurl:          /
+
+author:
+  name:           'Panagiotis "pek" Peikidis'
+  url:            https://pekalicious.com/
+
+paginate:         5
