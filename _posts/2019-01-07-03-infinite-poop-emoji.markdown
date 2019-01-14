@@ -5,10 +5,13 @@ date:   2019-01-07 22:00:00 -0500
 categories: mcc-workflow
 tags: [ruby,http]
 ---
-## What happened
-My worker on Heroku was getting stuck trying to get a response from a URL. Turns out the website was a trap and would infinitely print out poop emojis. Touche [RobePike](http://robpike.io), touche.
+
+I noticed that my crawler was getting stuck in a site even though I set a timeout to `get`. Little did I know that the site was full of poop.
 
 <!--more-->
+
+## What happened
+My worker on Heroku was getting stuck trying to get a response from a URL. Turns out the website was a trap and would infinitely print out poop emojis. Touche [RobePike](http://robpike.io), touche.
 
 ## How I fixed it
 Using the built-in timeout argument in `Net::HTTP.read_timeout` wasn't doing the trick because the website *request* wasn't actually timing out. The page would simply take forever. 
