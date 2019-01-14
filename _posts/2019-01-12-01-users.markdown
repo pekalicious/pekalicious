@@ -10,6 +10,7 @@ Decided to add users and roles for MCC-Workflow as I prepare to invite writers a
 <!-- more -->
 
 Steps I followed:
+
 - [Adding basic authentication with Devise](https://guides.railsgirls.com/devise)
   - [Adding Confirmation step](https://github.com/plataformatec/devise/wiki/How-To:-Add-:confirmable-to-Users)
     - [Set mailer to use Google SMTP](https://stackoverflow.com/questions/36996090/rails-devise-not-sending-an-email-confirmation-in-development)

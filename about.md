@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About
-permalink: /about/
 ---
 
 Hello there! This is a (micro)blog where I document every little challenge I have throughout my development day for me to remember and for you to possibly(?) learn.
