@@ -12,7 +12,7 @@ title:            Trial and Forget
 tagline:          "pek's daily struggles"
 description:      "pek's daily struggles"
 url:              http://pekalicious.github.io
-baseurl:          /
+baseurl:          https://pekalicious.github.io/
 
 author:
   name:           'Panagiotis "pek" Peikidis'
